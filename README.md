@@ -47,10 +47,6 @@ Visualization
 Plot stock price history vs revenue
 Highlight trend lines and key performance periods
 
-📦 Installation
-# Clone the repository
-git clone https://github.com/username/stock-revenue-dashboard.git
-
 # Install dependencies
 pip install -r requirements.txt
 ▶️ Usage
