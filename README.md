@@ -73,6 +73,4 @@ Integration with Google Sheets for auto-updating KPIs
 👤 Author
 Badar Ghalib – Python Developer | Data Analyst & BI Developer
 
-💼 LinkedIn
-
-📧 your.email@example.com
+📧 ngbiexpert1@gmail.com
